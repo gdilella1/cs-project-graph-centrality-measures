@@ -3,3 +3,5 @@
 
 # Mantieni tracciato il file .gitignore
 !.gitignore
+
+!README.md

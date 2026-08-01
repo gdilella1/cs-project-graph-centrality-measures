@@ -1,0 +1,5 @@
+# Ignora i file con qualsiasi estensione nella radice
+/*.*
+
+# Mantieni tracciato il file .gitignore
+!.gitignore
